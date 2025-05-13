@@ -1,4 +1,4 @@
-<h1>Hi, I'm Melisa✨ <br/><a href="https://github.com/joshmadakor1">Aspiring Cybersecurity Analyst | Passionate About Risk Management & Digital Security</a> <a href="https://www.linkedin.com/in/melisaamortegui/">
+<h1>Hi, I'm Melisa✨ <br/><a href="https://www.linkedin.com/in/melisaamortegui">Aspiring Cybersecurity Analyst | Passionate About Risk Management & Digital Security</a> <a href="https://www.linkedin.com/in/melisaamortegui/">
 
 <h2> 👩🏻‍💻 Cybersecurity Projects:</h2>
 
