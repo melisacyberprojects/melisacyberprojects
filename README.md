@@ -1,7 +1,15 @@
-## Hi there 👋
+<h1>Hi, I'm Melisa✨ <br/><a href="https://github.com/joshmadakor1">Aspiring Cybersecurity Analyst | Passionate About Risk Management & Digital Security</a> <a href="https://www.linkedin.com/in/melisaamortegui/">
+
+<h2> 👩🏻‍💻 Cybersecurity Projects:</h2>
+
+<h2> 📃 Certifications </h2>
+
+<h2>📺 Tiktok </h2>
+
+
 
 <!--
-**melisacyberprojects/melisacyberprojects** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
